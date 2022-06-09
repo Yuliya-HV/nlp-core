@@ -1,2 +1,3 @@
 # nlp-core
-Core NLP techniques, approaches, mechanisms
+
+This repo is to store solutions for most common NLP tasks.
