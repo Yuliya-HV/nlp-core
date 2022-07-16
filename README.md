@@ -13,7 +13,8 @@ This repo is to store various basic implementations for the most common NLP task
   Key_NLP_techniques-->...;
 ```
 
-~The most common NLP tasks
+
+The most common NLP tasks in the industry for Artificial Intelligence presented below. Current state of the art for all tasks is based on transtormers models.
 
 ```mermaid
   graph TD;
