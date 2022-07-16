@@ -4,10 +4,10 @@ This repo is to store various basic implementations for the most common NLP task
 
 ```mermaid
   graph TD;
-  NLP-->Text Classification;
+  NLP-->TextClassification;
   NLP-->NER;
-  NLP-->Text Generation;
-  NLP-->Text Summarization;
-  NLP-->Question Answering;
-  NLP-->Machine Translation';
+  NLP-->TextGeneration;
+  NLP-->TextSummarization;
+  NLP-->QuestionAnswering;
+  NLP-->MachineTranslation';
 ```
