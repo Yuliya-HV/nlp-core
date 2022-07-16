@@ -7,9 +7,10 @@ This repo is to store various basic implementations for the most common NLP task
   graph TD;
   Key_NLP_techniques-->WordEmbedding;
   Key_NLP_techniques-->Attention;
-  Key_NLP_techniques-->Encoder;
-  Key_NLP_techniques-->Decoder;
   Key_NLP_techniques-->Transformers;
+  Transformers-->Encoder;
+  Transformers-->Decoder;
+  Transformers-->Encoder+Decoder;
   Key_NLP_techniques-->...;
 ```
 
